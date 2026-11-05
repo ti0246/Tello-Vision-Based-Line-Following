@@ -1,0 +1,16 @@
+# HSV range for ORANGE line
+LOWER_ORANGE = [5, 100, 100]
+UPPER_ORANGE = [20, 255, 255]
+
+# PID values
+KP = 0.40
+KI = 0.00
+KD = 0.25
+
+# Drone speed
+FORWARD_SPEED = 20
+MAX_SPEED = 35
+
+# Frame size
+FRAME_WIDTH = 640
+FRAME_HEIGHT = 480
